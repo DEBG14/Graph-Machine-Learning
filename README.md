@@ -12,7 +12,7 @@ Key datasets used:
 * OGB-DDI Dataset: An Open Graph Benchmark dataset for predicting drug-drug interactions.
 
 # Key Features
-* Graph Convolutional Networks (GCNs): Implemented to improve node classification accuracy.
+* Graph Convolutional Networks (GCNs): Implemented to improve node classification accuracy copared to MLP like .
 * Graph Attention Networks (GATs): Enhanced classification accuracy with attention mechanisms.
 * GraphSAGE: Neighborhood sampling for large-scale node classification.
 * Link Prediction on OGB-DDI: Achieved high Hits@K scores for predicting drug interactions.
