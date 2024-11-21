@@ -1,5 +1,5 @@
 # Graph Neural Networks for Node Classification and Link Prediction
-This repository contains the implementation of my research project on Graph Neural Networks (GNNs), conducted from August 2023 to December 2023 under the supervision of Dr. B. S. Panda, IIT Delhi. The project investigates the application of GNNs for node classification and link prediction, with a focus on citation networks, drug interaction datasets, and dynamic/online learning for evolving graphs.
+This repository contains the implementation of my M.Sc research project on Graph Neural Networks (GNNs), conducted from August 2023 to December 2023 under the supervision of Dr. B. S. Panda, IIT Delhi. The project explores GNNs for node classification and link prediction, with a focus on citation networks, drug interaction datasets, and dynamic/online learning for evolving graphs.
 
 # Introduction
 Graph Neural Networks (GNNs) are powerful tools for learning on graph-structured data. This project focuses on:
